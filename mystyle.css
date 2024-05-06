@@ -7,7 +7,7 @@ table.a {
 table.b {
     table-layout: fixed;
     width: 100%;
-    text-aling: left;    
+    text-aling: right;    
 }
 
 .div-text{
